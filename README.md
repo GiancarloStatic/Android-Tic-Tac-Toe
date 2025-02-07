@@ -1,1 +1,1 @@
-# TicTacToe-Android
+# Android-Tic-Tac-Toe
